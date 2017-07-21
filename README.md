@@ -6,6 +6,7 @@ July 20, 2017
 
 16x9-Launching_Basic: Basic launch images with comic logo to match theme in 16x9 format.
 16x9-Launching_ComicRip: Launch image with comic logo and system mascot ripping out of screen to match theme in 16x9 format.
+4x3-Launching_Basic: Basic launch images with comic logo to match theme in 4x3 format.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
