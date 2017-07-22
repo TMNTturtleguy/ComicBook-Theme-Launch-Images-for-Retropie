@@ -13,7 +13,8 @@ July 21, 2017
 
 How To Use:
 
-Copy the contents of each folder into the corresponding folder in `opt/retropie/configs/`
+Copy the contents of each folder into the corresponding folder in 'opt/retropie/configs/'
+
 ----------------------------------------------------------------------------------------------
 
 License
